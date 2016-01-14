@@ -1,0 +1,702 @@
+# Webalizer V2.23-08 Incremental Data - 01/12/2016 23:53:03
+2016 1 12 23 53 3
+1243 618 17 192 32 16 9285864 437 22 0
+17 18 732 12 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1243 618 9285864 17 437 22
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+9 8 21662 8
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 0 1
+0 0 0 0
+1 1 1853 1
+0 0 0 0
+1 0 0 1
+0 0 0 0
+3 0 646 3
+4 2 6341 0
+0 0 0 0
+0 0 0 0
+1 1 6096 1
+0 0 0 0
+10 8 311603 3
+2 1 2192 2
+298 194 4806977 131
+63 38 258006 34
+732 286 2636754 206
+100 61 889723 44
+18 18 344011 2
+0
+0
+0
+618
+0
+0
+0
+0
+0
+1
+0
+1
+17
+0
+598
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-admin/theme-install.php
+0 1 13596000 8806 0 0
+/wp-admin/options-permalink.php
+0 5 13598368 35158 0 0
+/wp-content/plugins/jetpack/images/connect-plug.svg
+0 1 13607088 1615 0 0
+/wp-admin/images/loading.gif
+1 2 13620128 2254 0 0
+/wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js
+1 1 0 894 0 0
+/wp-admin/css/install.min.css
+1 1 13580768 1927 0 0
+/wp-content/themes/twentysixteen/js/customize-preview.js
+1 1 0 454 0 0
+/wp-admin/widgets.php
+0 2 13597648 27735 0 0
+/wp-admin/themes.php
+0 6 13593408 51037 0 0
+/wp-includes/js/tinymce/langs/wp-langs-en.js
+1 1 13636512 5448 0 0
+/wp-content/themes/independent-publisher/css/wp-fullscreen-title.css
+1 1 0 238 0 0
+/wp-includes/js/tinymce/plugins/paste/plugin.min.js
+1 1 13637984 6518 0 0
+/wp-content/plugins/jetpack/modules/sharedaddy/admin-sharing.css
+1 7 0 1860 0 0
+/wp-includes/js/customize-preview-nav-menus.min.js
+1 8 13595728 2838 0 0
+/wp-content/themes/twentysixteen/js/skip-link-focus-fix.js
+1 1 0 588 0 0
+/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif
+1 5 0 2530 0 0
+/wp-admin/options-reading.php
+0 1 13603344 6708 0 0
+/wp-includes/js/customize-preview.min.js
+1 9 13595440 940 0 0
+/wp-admin/upload.php
+0 3 13603824 46177 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize.min.css
+1 7 0 953 0 0
+/wp-content/plugins/jetpack/css/jetpack-admin.min.css
+1 3 13617440 10631 0 0
+/wp-content/themes/twentyfifteen/screenshot.png
+1 7 13593776 376628 0 0
+/wp-content/themes/twentysixteen/genericons/Genericons.svg
+0 1 0 76980 0 0
+/wp-includes/css/buttons.min.css
+1 2 13580256 1361 0 0
+/resume.html
+0 1 13520800 2930 0 0
+/wp-includes/js/wp-embed.js
+1 1 13640512 1235 0 0
+/wp-content/plugins/jetpack/_inc/jetpack-modules.views.js
+1 1 0 735 0 0
+/about.html
+0 2 13520352 4786 0 1
+/wp-includes/js/imgareaselect/border-anim-h.gif
+1 1 13604784 178 0 0
+/wp-includes/css/customize-preview.min.css
+1 8 13595008 206 0 0
+/wp-includes/js/thickbox/thickbox.css
+1 8 13591248 814 0 0
+/wp-content/uploads/2016/01/fb-Dennis.-Portrait.-Berlin-2015-300x169.jpg
+1 4 13604304 51832 0 0
+/wp-admin/plugin-install.php
+0 16 13606448 250921 0 0
+/wp-admin/load-scripts.php
+0 35 13591472 1703420 0 0
+/images/favicon.png
+1 2 13520688 1368 0 0
+/wp-admin/about.php
+0 1 13643904 8671 0 0
+/wp-content/plugins/jetpack/modules/wpgroho.js
+1 17 13626528 1467 0 0
+/wp-admin/images/spinner.gif
+1 10 13594064 4162 0 0
+/wp-includes/images/spinner-2x.gif
+1 3 13598000 8536 0 0
+/wp-admin/plugins.php
+0 3 13606336 30252 0 0
+/wp-content/themes/twentyfourteen/screenshot.png
+1 7 13593920 617254 0 0
+/updates.html
+0 2 13520464 12248 0 0
+/wp-content/plugins/jetpack/modules/sharedaddy/sharing.css
+1 7 0 3196 0 0
+/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/use-codemirror.js
+1 1 13643616 622 0 0
+/wp-includes/js/customize-preview-widgets.min.js
+1 9 13595584 671 0 0
+/wp-admin/post.php
+0 2 13635712 31715 0 0
+/wp-includes/js/underscore.min.js
+1 13 13581296 5039 0 0
+/wp-content/plugins/jetpack/modules/sharedaddy/admin-sharing.js
+1 7 0 3528 0 0
+/wp-content/themes/independent-publisher/js/theme-customizer.js
+1 8 0 953 0 0
+/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/codemirror.min.js
+1 1 13643264 44876 0 0
+/wp-content/themes/independent-publisher/css/jetpack-sharing-enhancements.css
+1 4 13625728 285 0 0
+/wp-content/themes/twentysixteen/js/color-scheme-control.js
+1 1 0 855 0 0
+/wp-includes/js/tinymce/skins/wordpress/wp-content.css
+1 1 13640208 2730 0 0
+/wp-includes/css/editor.min.css
+1 4 13591600 5393 0 0
+/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff
+0 3 0 8944 0 0
+/wp-content/themes/independent-publisher/style.css
+1 16 13596640 34035 0 0
+/wp-admin/
+0 4 13591136 56415 0 0
+/wp-content/themes/independent-publisher/screenshot.png
+1 2 13604048 181635 0 0
+/wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js
+1 1 0 649 0 0
+/wp-content/themes/independent-publisher/js/enhanced-comment-form.js
+1 16 0 2004 0 0
+/wp-content/themes/independent-publisher/css/nprogress.css
+1 10 0 1938 0 0
+/wp-admin/load-styles.php
+0 6 13591728 497647 0 0
+/wp-content/plugins/jetpack/css/jetpack-icons.min.css
+1 17 13606688 410 0 0
+/wp-content/plugins/jetpack/_inc/jetpack-modules.js
+1 1 13641648 1719 0 0
+/wp-content/plugins/jetpack/_inc/jetpack-admin.js
+1 1 13641184 532 0 0
+/wp-content/themes/independent-publisher/js/skip-link-focus-fix.js
+1 16 0 1152 0 0
+/wp-includes/js/zxcvbn.min.js
+1 1 13581936 330112 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize-google-2x.png
+1 7 13621136 1960 0 0
+/wp-includes/js/imgareaselect/imgareaselect.css
+1 9 13594416 265 0 0
+/wp-content/plugins/jetpack/modules/custom-css/custom-css/css/use-codemirror.min.css
+1 1 13643088 116 0 0
+/wp-includes/js/tinymce/plugins/hr/plugin.min.js
+1 1 13637408 191 0 0
+/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js
+1 12 0 8092 0 0
+/wp-content/plugins/jetpack/modules/shortcodes/js/slideshow-shortcode.js
+1 11 13625904 5442 0 0
+/wp-includes/css/admin-bar.min.css
+1 8 13592256 3794 0 0
+/wp-includes/images/uploader-icons.png
+1 4 13597264 1556 0 0
+/wp-admin/admin.php
+0 27 13617328 131675 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize-linkedin-2x.png
+1 7 13620784 2281 0 0
+/wp-includes/js/tinymce/skins/lightgray/skin.min.css
+1 1 13639920 5717 0 0
+/wp-includes/js/tinymce/plugins/lists/plugin.min.js
+1 1 13637552 2864 0 0
+/wp-content/themes/twentysixteen/style.css
+1 1 13592544 12996 0 0
+/wp-content/plugins/jetpack/modules/custom-css/custom-css/css/css-editor.min.css
+1 1 13642624 218 0 0
+/wp-admin/install.php
+0 3 0 5609 1 0
+/wp-content/plugins/jetpack/images/the-footcloud.svg
+0 2 13607232 746 0 0
+/wp-includes/js/imgareaselect/border-anim-v.gif
+1 1 13604640 178 0 0
+/wp-admin/update.php
+0 17 13596128 100301 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.svg
+0 16 0 1168 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize.js
+1 7 0 2201 0 0
+/wp-content/plugins/jetpack/_inc/gallery-settings.js
+1 6 13636096 496 0 0
+/wp-content/plugins/jetpack/modules/after-the-deadline/atd.core.js
+1 4 0 5549 0 0
+/wp-admin/edit.php
+0 1 13641904 11170 0 0
+/wp-admin/options-writing.php
+0 1 13603216 6579 0 0
+/wp-includes/js/tinymce/plugins/wpembed/plugin.min.js
+1 1 13639776 225 0 0
+/wp-content/uploads/2016/01/cropped-fb-Dennis.-Portrait.-Berlin-2015.jpg
+1 17 13604928 945456 0 0
+/wp-content/themes/twentysixteen/genericons/genericons.css
+1 1 0 16441 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize-path-2x.png
+1 7 13620960 4912 0 0
+/wp-includes/css/dashicons.min.css
+1 10 13580496 85659 0 0
+/wp-includes/js/customize-base.min.js
+1 8 13595152 4206 0 0
+/wp-includes/js/tinymce/tinymce.min.js
+1 1 13636240 110792 0 0
+/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions/widget-conditions.min.css
+1 5 13640640 439 0 0
+/wp-includes/js/comment-reply.min.js
+1 7 13595872 1767 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+1 17 13580624 12252 0 0
+/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
+1 1 13636368 1689 0 0
+/wp-includes/js/zxcvbn-async.min.js
+1 1 13580896 232 0 0
+/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.svg
+0 15 0 153960 0 0
+/wp-content/plugins/jetpack/_inc/jp.js
+1 3 13618096 4097 0 0
+/wp-content/themes/independent-publisher/editor-style.css
+1 1 0 1824 0 0
+/skills.html
+0 2 0 1607 1 0
+/wp-admin/tools.php
+0 1 13641792 9402 0 0
+/wp-includes/js/wp-util.min.js
+1 10 13581424 579 0 0
+/wp-content/themes/independent-publisher/js/fade-post-title.js
+1 10 0 672 0 0
+/wp-content/uploads/2016/01/fb-Dennis.-Portrait.-Berlin-2015.jpg
+1 1 0 154588 0 0
+/wp-content/plugins/jetpack/css/jetpack-banners.min.css
+1 3 13606944 1496 0 0
+/wp-login.php
+0 3 13590784 3019 0 0
+/wp-includes/js/tinymce/plugins/media/plugin.min.js
+1 1 13637840 3798 0 0
+/wp-content/plugins/jetpack/modules/after-the-deadline/atd.min.css
+1 4 0 520 0 0
+/wp-admin/css/login.min.css
+1 2 13590896 5898 0 0
+/wp-includes/js/backbone.min.js
+1 5 13626672 6628 0 0
+/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js
+1 1 13638432 5149 0 0
+/wp-includes/js/jquery/jquery.js
+1 18 13581024 99855 0 0
+/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js
+1 1 13639328 649 0 0
+/wp-content/plugins/jetpack/modules/custom-css/custom-css/css/codemirror.min.css
+1 1 13642912 1193 0 0
+/wp-includes/js/wp-embed.min.js
+1 16 13592960 3064 0 0
+/wp-admin/options-discussion.php
+0 4 13603584 35423 0 0
+/wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js
+1 1 0 614 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js
+1 1 0 4822 0 0
+/wp-content/plugins/jetpack/modules/after-the-deadline/tinymce/plugin.js
+1 1 13636784 3700 0 0
+/wp-includes/js/wp-emoji-release.min.js
+1 21 13591856 22104 0 0
+/wp-admin/images/w-logo-white.png
+1 1 13644128 4159 0 0
+/wp-content/plugins/jetpack/modules/photon/photon.js
+1 15 13626080 2001 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize-tumblr-2x.png
+1 7 13620608 2128 0 0
+/wp-content/themes/independent-publisher/fonts/genericons/genericons.css
+1 6 13596352 30388 0 0
+/wp-includes/js/tinymce/skins/lightgray/content.min.css
+1 1 13640064 788 0 0
+/wp-includes/images/spinner.gif
+1 5 13597392 4162 0 0
+/wp-content/plugins/jetpack/modules/after-the-deadline/atd-nonvis-editor-plugin.js
+1 4 13617744 2955 0 0
+/wp-includes/js/thickbox/loadingAnimation.gif
+1 8 13591984 30476 0 0
+/xmlrpc.php
+0 2 0 414 2 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize-twitter-2x.png
+1 7 13620432 3372 0 0
+/wp-content/themes/twentysixteen/js/functions.js
+1 1 13592816 1964 0 0
+/wp-content/plugins/jetpack/images/jetpack-logo.svg
+0 3 13618560 2463 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 13581808 1521 0 0
+/wp-admin/js/user-profile.min.js
+1 1 13581552 2174 0 0
+/wp-content/plugins/jetpack/modules/contact-form//images/grunion-menu.png
+1 15 13618384 157 0 0
+/wp-content/plugins/jetpack/css/dashboard-widget.css
+1 2 13642128 908 0 0
+/wp-content/uploads/2016/01/cropped-fb-Dennis.-Portrait.-Berlin-2015-300x300.jpg
+1 3 13606160 38816 0 0
+/wp-includes/js/tinymce/plugins/textcolor/plugin.min.js
+1 1 13638128 1669 0 0
+/wp-includes/js/tinymce/plugins/wplink/plugin.min.js
+1 1 13639184 989 0 0
+/
+0 73 13519872 479173 11 1
+/wp-content/plugins/jetpack/modules/shortcodes/js/jquery.cycle.js
+1 11 0 41517 0 0
+/wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js
+1 1 0 932 0 0
+/wp-admin/nav-menus.php
+0 2 13643792 21781 0 0
+/wp-content/plugins/jetpack/modules/after-the-deadline/jquery.atd.js
+1 4 0 3911 0 0
+/wp-content/themes/independent-publisher/fonts/genericons/Genericons.svg
+0 1 13605568 71449 0 0
+/wp-includes/js/tinymce/plugins/charmap/plugin.min.js
+1 1 13637104 2846 0 0
+/wp-includes/js/mediaelement/wp-mediaelement.css
+1 8 13594704 2670 0 0
+/wp-admin/js/language-chooser.min.js
+1 1 13581680 240 0 0
+/wp-content/plugins/jetpack/modules/after-the-deadline/atd-autoproofread.js
+1 4 13617920 1390 0 0
+/wp-admin/options-media.php
+0 3 13598240 18075 0 0
+/wp-admin/options-general.php
+0 13 13597760 141436 0 0
+/wp-content/plugins/jetpack/css/jetpack.css
+1 14 13626224 28746 0 0
+/wp-includes/js/admin-bar.min.js
+1 7 13592688 4956 0 0
+/hello-world/
+0 13 13605264 100517 1 1
+/wp-admin/images/wordpress-logo-white.svg
+0 1 13644368 1518 0 0
+/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css
+1 20 0 49317 0 0
+/wp-includes/js/tinymce/plugins/wpview/plugin.min.js
+1 1 13639632 3130 0 0
+/wp-admin/js/password-strength-meter.min.js
+1 1 13581152 452 0 0
+/images/dk-styleguide.jpg
+1 1 13575280 207593 0 0
+/wp-includes/js/mediaelement/mediaelementplayer.min.css
+1 9 13594560 3150 0 0
+/images/denniskummer-aboutme-photo-2015-x2.jpg
+1 1 13574912 86596 0 0
+/wp-admin/theme-editor.php
+0 2 13642496 38506 0 0
+/feed/
+0 1 13616512 700 0 0
+/wp-content/plugins/jetpack/_inc/jetpack-modules.models.js
+1 1 0 853 0 0
+/wp-admin/async-upload.php
+0 3 13597520 960 0 0
+/wp-content/plugins/jetpack/modules/contact-form/css/menu-alter.min.css
+1 16 0 515 0 0
+/wp-content/plugins/jetpack/modules/custom-css/custom-css/js/css-editor.js
+1 1 13643440 744 0 0
+/wp-cron.php
+0 8 13591024 175 3 3
+/wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js
+1 1 13639040 763 0 0
+/wp-admin/images/resize.gif
+1 1 13636656 70 0 0
+/wp-content/themes/independent-publisher/js/nprogress.js
+1 10 0 10479 0 0
+/impressum.html
+0 1 13520576 4218 0 0
+/wp-includes/js/tinymce/plugins/wpemoji/plugin.min.js
+1 1 13638896 730 0 0
+/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js
+1 1 13637696 701 0 0
+/wp-content/plugins/jetpack/modules/widgets/google-plus/js/admin.js
+1 5 0 307 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff
+0 16 0 1172 0 0
+/wp-content/themes/twentysixteen/screenshot.png
+1 7 13593520 463555 0 0
+/wp-admin/admin-ajax.php
+0 128 13592128 49475 0 0
+/css/normalize.css
+1 2 13565504 5192 0 0
+/wp-content/plugins/jetpack/images/the-cloud-sm.svg
+0 3 13618704 3113 0 0
+/wp-admin/customize.php
+0 17 13594304 640683 0 0
+/wp-content/plugins/jetpack/modules/widget-visibility/widget-conditions/widget-conditions.js
+1 5 13640992 1526 0 0
+/wp-content/plugins/jetpack/modules/publicize/assets/publicize-fb-2x.png
+1 7 13620256 2723 0 0
+/wp-includes/js/tinymce/themes/modern/theme.min.js
+1 1 13636960 3430 0 0
+/css/skeleton.css
+1 2 13565328 6756 0 0
+# End Of Table - urls
+# -sites- (monthly)
+192.0.80.100
+0 1 1 207 1 1452632701
+/xmlrpc.php
+192.0.86.136
+0 3 2 927 1 1452632427
+/feed/
+baiduspider-180-76-15-156.crawl.baidu.com
+0 1 1 3260 1 1452627221
+/
+97-101-220-142.res.bhn.net
+0 17 17 343991 1 1452642776
+/
+crawl-66-249-78-122.googlebot.com
+0 1 1 2172 1 1452624650
+/wp-admin/install.php
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 0 0 1 1452561262
+/skills.html
+baiduspider-180-76-15-160.crawl.baidu.com
+0 1 0 0 1 1452589434
+/
+crawl-66-249-69-40.googlebot.com
+0 3 1 2058 2 1452624649
+/
+ec2-52-53-241-85.us-west-1.compute.amazonaws.com
+0 8 8 21662 1 1452561438
+/resume.html
+dd29530.kasserver.com
+0 10 9 4725 4 1452642781
+/wp-cron.php
+f498.ip12.netikka.fi
+0 1 1 6096 1 1452611574
+/
+106.147.dynamic.pppoe.fregat.ua
+0 2 0 422 1 1452599058
+-
+58.101.104.219
+0 1 0 224 1 1452597878
+-
+crawl-66-249-69-32.googlebot.com
+0 3 2 6156 0 0
+-
+msnbot-207-46-13-134.search.msn.com
+0 1 0 0 1 1452577664
+/
+31.13.113.70
+0 1 1 6007 1 1452632821
+/hello-world/
+dslb-178-005-228-023.178.005.pools.vodafone-ip.de
+0 1188 575 8887957 3 1452636627
+/wp-admin/load-scripts.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+192.0.80.100
+0 1 1 207 1 1452632701
+/xmlrpc.php
+192.0.86.136
+0 3 2 927 1 1452632427
+/feed/
+baiduspider-180-76-15-156.crawl.baidu.com
+0 1 1 3260 1 1452627221
+/
+97-101-220-142.res.bhn.net
+0 17 17 343991 1 1452642776
+/
+crawl-66-249-78-122.googlebot.com
+0 1 1 2172 1 1452624650
+/wp-admin/install.php
+baiduspider-180-76-15-151.crawl.baidu.com
+0 1 0 0 1 1452561262
+/skills.html
+baiduspider-180-76-15-160.crawl.baidu.com
+0 1 0 0 1 1452589434
+/
+crawl-66-249-69-40.googlebot.com
+0 3 1 2058 2 1452624649
+/
+ec2-52-53-241-85.us-west-1.compute.amazonaws.com
+0 8 8 21662 1 1452561438
+/resume.html
+dd29530.kasserver.com
+0 10 9 4725 4 1452642781
+/wp-cron.php
+f498.ip12.netikka.fi
+0 1 1 6096 1 1452611574
+/
+106.147.dynamic.pppoe.fregat.ua
+0 2 0 422 1 1452599058
+-
+58.101.104.219
+0 1 0 224 1 1452597878
+-
+crawl-66-249-69-32.googlebot.com
+0 3 2 6156 0 0
+-
+msnbot-207-46-13-134.search.msn.com
+0 1 0 0 1 1452577664
+/
+31.13.113.70
+0 1 1 6007 1 1452632821
+/hello-world/
+dslb-178-005-228-023.178.005.pools.vodafone-ip.de
+0 1188 575 8887957 3 1452636627
+/wp-admin/load-scripts.php
+# End Of Table - sites (daily)
+# -referrers- 
+http://denniskummer.com/updates.html
+1 2
+http://denniskummer.com/hello-world/
+1 44
+http://denniskummer.com/wp-admin/options-permalink.php
+1 14
+http://denniskummer.com/wp-admin/theme-install.php
+1 5
+http://denniskummer.com/wp-admin/install.php
+1 51
+http://denniskummer.com/wp-admin/tools.php
+1 1
+http://denniskummer.com/wp-admin/options-discussion.php
+1 6
+https://t.co/zualfXLaUN
+0 1
+http://denniskummer.com/wp-admin/widgets.php
+1 5
+http://denniskummer.com/wp-admin/options-reading.php
+1 1
+http://denniskummer.com/administrator/
+1 1
+http://denniskummer.com/
+1 224
+- (Direct Request)
+0 148
+http://denniskummer.com/wp-admin/index.php
+1 18
+http://denniskummer.com/wp-admin/
+1 41
+http://denniskummer.com/wp-admin/customize.php
+1 198
+http://denniskummer.com/wp-admin/upload.php
+1 14
+http://denniskummer.com/wp-admin/admin.php
+1 100
+http://denniskummer.com/wp-admin/options-general.php
+1 132
+http://denniskummer.com/wp-admin/themes.php
+1 36
+http://denniskummer.com/wp-admin/update.php
+1 22
+http://denniskummer.com/wp-admin/nav-menus.php
+1 4
+http://denniskummer.com/wp-admin/options-writing.php
+1 1
+http://denniskummer.com/wp-admin/theme-editor.php
+1 3
+http://denniskummer.com/index.html
+1 2
+http://denniskummer.com/wp-admin/edit.php
+1 3
+http://denniskummer.com/wp-admin/about.php
+1 4
+http://denniskummer.com/wp-login.php
+1 6
+http://denniskummer.com/wp-admin/post.php
+1 55
+http://denniskummer.com/wp-admin/options-media.php
+1 3
+http://denniskummer.com/wp-admin/plugins.php
+1 56
+http://denniskummer.com/wp-admin/plugin-install.php
+1 42
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+1 2
+Spider: Googlebot
+2 5
+spiderbot
+0 8
+WordPress/4.4.1; http://denniskummer.com
+0 10
+Jetpack by WordPress.com
+0 2
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+1 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 5
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D14 Safari/601.1
+1 41
+WordPress.com; https://jetpack.wordpress.com
+0 2
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+1 1
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+compatible;Baiduspider/2.0; +http://www.baidu.com/search/spider.html
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+1 1145
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+1 17
+Browser: Safari
+2 1209
+Spider: MJ12bot
+2 1
+Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)
+1 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
